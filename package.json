@@ -1,0 +1,23 @@
+{
+  "name": "chrome-extension-vocabulary",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "babel js -w -o main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimalakh/chrome-extension-vocabulary.git"
+  },
+  "author": "Dima Lakh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimalakh/chrome-extension-vocabulary/issues"
+  },
+  "homepage": "https://github.com/dimalakh/chrome-extension-vocabulary#readme",
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0"
+  }
+}
